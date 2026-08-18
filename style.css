@@ -80,10 +80,10 @@ nav ul li a:hover {
     text-align: center;
     padding: 60px 20px;
 
-    background:
-        radial-gradient(circle at top right, #164e63, transparent 35%),
-        radial-gradient(circle at bottom left, #1e3a8a, transparent 35%),
-        #0f172a;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .hero div {
