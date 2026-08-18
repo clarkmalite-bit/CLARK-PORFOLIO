@@ -6,8 +6,8 @@
 }
 
 .profile-img {
-    width: 300px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     display: block;
     margin: 0 auto 30px;
